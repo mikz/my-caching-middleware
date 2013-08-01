@@ -1,0 +1,1 @@
+"return function()\n  -- code\n  ngx.say('more')\nend"
