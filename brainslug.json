@@ -1,0 +1,47 @@
+{
+  "_created_at": 1375373976.6568,
+  "version": "1.1",
+  "author": {
+    "name": "Michal",
+    "github": "mikz"
+  },
+  "_id": 4,
+  "code": "my-caching-middleware.lua",
+  "name": "My caching middleware",
+  "description": "Empty middleware.",
+  "badges": [
+    {
+      "icon": "icon-hdd",
+      "name": "local"
+    },
+    {
+      "icon": "icon-github",
+      "name": "GitHub"
+    },
+    {
+      "icon": "icon-code-fork",
+      "name": "fork"
+    },
+    {
+      "icon": "icon-code-unlock",
+      "name": "public"
+    }
+  ],
+  "rating": [
+    {
+      "icon": "icon-heart"
+    },
+    {
+      "icon": "icon-heart"
+    },
+    {
+      "icon": "icon-heart"
+    },
+    {
+      "icon": "icon-heart"
+    },
+    {
+      "icon": "icon-heart-empty"
+    }
+  ]
+}
